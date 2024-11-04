@@ -1,0 +1,10 @@
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\bin\Debug\JetBrainsMSBuild.exe.config
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\bin\Debug\JetBrainsMSBuild.exe
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\bin\Debug\JetBrainsMSBuild.pdb
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\obj\Debug\JetBrainsMSBuild.csproj.AssemblyReference.cache
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\obj\Debug\JetBrainsMSBuild.Form1.resources
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\obj\Debug\JetBrainsMSBuild.Properties.Resources.resources
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\obj\Debug\JetBrainsMSBuild.csproj.GenerateResource.cache
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\obj\Debug\JetBrainsMSBuild.csproj.CoreCompileInputs.cache
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\obj\Debug\JetBrainsMSBuild.exe
+C:\Users\verav\source\repos\JetBrainsMSBuild\JetBrainsMSBuild\obj\Debug\JetBrainsMSBuild.pdb

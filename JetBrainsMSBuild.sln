@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrainsMSBuild", "JetBrainsMSBuild\JetBrainsMSBuild.csproj", "{20196207-4E9F-44A7-BF01-7A255C9F5574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20196207-4E9F-44A7-BF01-7A255C9F5574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20196207-4E9F-44A7-BF01-7A255C9F5574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20196207-4E9F-44A7-BF01-7A255C9F5574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20196207-4E9F-44A7-BF01-7A255C9F5574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F1C14C-0F49-42BB-8195-82C96153D2D5}
+	EndGlobalSection
+EndGlobal
